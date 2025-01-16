@@ -1,1 +1,18 @@
-{}
+{
+    "Username_password_authentication": {
+        "projectName": "Username_password_authentication",
+        "description": "username-password base authentication flow",
+        "type": "community",
+        "author": "desaioss",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/desaioss/agamalab-username-password",
+        "githubUri": "https://github.com/desaioss/agamalab-username-password",
+        "license": "apache-2.0",
+        "lastUpdated": "1737022764422",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
